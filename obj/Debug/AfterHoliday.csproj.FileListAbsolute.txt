@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\bin\Debug\AfterHoliday.exe.config
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\bin\Debug\AfterHoliday.exe
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\bin\Debug\AfterHoliday.pdb
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\obj\Debug\AfterHoliday.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\obj\Debug\AfterHoliday.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\obj\Debug\AfterHoliday.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\obj\Debug\AfterHoliday.exe
+C:\Users\Admin\source\repos\AfterHoliday\AfterHoliday\obj\Debug\AfterHoliday.pdb
